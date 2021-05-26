@@ -1,4 +1,3 @@
-from os import read
 import requests
 from selenium import webdriver
 from bs4 import BeautifulSoup
