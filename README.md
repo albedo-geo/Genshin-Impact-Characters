@@ -1,6 +1,6 @@
 # Genshin Impact Characters
 
-下载原神官网的角色立绘
+下载[原神官网](https://ys.mihoyo.com/main/character/mondstadt?char=0)的角色立绘
 
 ## 安装教程
 
